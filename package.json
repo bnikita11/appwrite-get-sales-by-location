@@ -1,16 +1,9 @@
 {
-  "name": "starter-template",
+  "name": "appwrite-get-sales-by-location",
   "version": "1.0.0",
-  "description": "",
+  "description": "Appwrite function to calculate sales by location.",
   "main": "src/main.js",
-  "type": "module",
-  "scripts": {
-    "format": "prettier --write ."
-  },
   "dependencies": {
-    "node-appwrite": "^12.0.1"
-  },
-  "devDependencies": {
-    "prettier": "^3.2.5"
+    "node-appwrite": "^11.0.0"
   }
 }
