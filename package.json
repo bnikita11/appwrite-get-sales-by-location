@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Appwrite function to calculate sales by location.",
   "main": "src/main.js",
+   "type": "module", 
   "dependencies": {
     "node-appwrite": "^11.0.0"
   }
